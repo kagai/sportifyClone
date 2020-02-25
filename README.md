@@ -1,2 +1,2 @@
 # sportifyClone
-This is a sportify clone 
+React app that mimics sportify UI.
